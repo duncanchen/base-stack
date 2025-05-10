@@ -11,7 +11,7 @@ export default function Route404() {
 		<div className="flex min-h-screen items-center justify-center bg-gradient-to-b from-gray-50 to-gray-100 p-4 dark:from-blue-950 dark:to-blue-900 dark:text-white">
 			<div className="w-full max-w-2xl text-center">
 				<div className="mb-8 flex justify-center">
-					<Icon name="Ghost" className="h-24 w-24 animate-float text-indigo-600" />
+					<Icon name="Ghost" className="h-24 w-24 animate-float text-indigo-400" />
 				</div>
 
 				<h1 className="mb-4 font-bold text-6xl text-gray-900 dark:text-white">404</h1>

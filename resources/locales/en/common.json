@@ -1,5 +1,5 @@
 {
-	"hi": "React Router is awesome!",
+	"hi": "React Router is awesome! This is configured in the common.json file.",
 	"navigation": {
 		"back": "Go back",
 		"home": "Back to home"
